@@ -35,8 +35,9 @@ li {
     padding: 0 15px;
     background-image: url(/assets/700x700.webp);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center -90px ;
+    background-size: contain;
+    background-position: 0px -70px ;
+    width: 100%; 
 }
 header {
     min-height: 200px;
@@ -57,6 +58,9 @@ h1 {
 .menu-item {
     padding: 0 1rem 1rem;
     page-break-inside: avoid;
+}
+p {
+    margin-bottom: 1em; 
 }
 /* FOOTER */
 footer {
