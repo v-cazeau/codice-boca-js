@@ -36,14 +36,14 @@ li {
     background-image: url(/assets/700x700.webp);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: 0px -70px ;
+    background-position: 0px -190px;
     width: 100%; 
 }
 header {
     min-height: 200px;
 }
 h1 {
-    font-size: calc(3em + 3vw);
+    font-size: calc(3em + 2vw);
     text-align: center;
     margin-top: 50px;
     color: white; 
